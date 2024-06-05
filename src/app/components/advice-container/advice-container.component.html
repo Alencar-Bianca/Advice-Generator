@@ -1,0 +1,19 @@
+<section>
+  <div class="container">
+    <div class="advice-number">
+      <p>advice #{{generatedNumber}}</p>
+    </div>
+    <div class="advice">
+      <p>"{{advice.advice}}"</p>
+    </div>
+
+    <div class="img">
+      <img class="d-none-desktop"  src="/assets/pattern-divider-desktop.svg" alt="">
+      <img class="d-none-mobile" src="/assets/pattern-divider-mobile.svg" alt="">
+    </div>
+
+    <div class="button">
+      <button (click)="generateAdvice()"><img src="/assets/icon-dice.svg" alt=""></button>
+    </div>
+  </div>
+</section>
