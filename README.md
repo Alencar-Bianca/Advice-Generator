@@ -15,7 +15,7 @@ Thanks for checking out this front-end coding challenge.
 Executar para clonar o projeto:
 
 ```bash
-git clone https://github.com/Alencar-Bianca/rickandmorty.git
+git clone https://github.com/Alencar-Bianca/Advice-Generator.git
 ```
 
 Entrar na pasta usando cd e executar para instalar as dependências necessárias:
@@ -39,4 +39,4 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Link do Projeto: [Advice Generator Api](https://rickemortyapi.netlify.app/)
+Link do Projeto: [Advice Generator Api](https://advicegeneratorapio.netlify.app/)
